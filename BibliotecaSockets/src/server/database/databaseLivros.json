@@ -1,0 +1,82 @@
+{"livros": [
+      {
+            "genero": "Filosofia",
+            "alugados": "1",
+            "titulo": "Meditações",
+            "id": "1",
+            "exemplares": "4",
+            "autor": "Marco Aurélio"
+      },
+      {
+            "genero": "Romance",
+            "alugados": "0",
+            "titulo": "Orgulho e Preconceito",
+            "id": "2",
+            "exemplares": "4",
+            "autor": "Jane Austen"
+      },
+      {
+            "genero": "Autoajuda",
+            "alugados": "0",
+            "titulo": "Nada Pode Me Ferir",
+            "id": "3",
+            "exemplares": "2",
+            "autor": "David Goggins"
+      },
+      {
+            "genero": "Ficção Científica",
+            "alugados": "0",
+            "titulo": "O Homem Invisível",
+            "id": "4",
+            "exemplares": "1",
+            "autor": "H.G. Wells"
+      },
+      {
+            "genero": "Filosofia",
+            "alugados": "0",
+            "titulo": "Utopia",
+            "id": "5",
+            "exemplares": "14",
+            "autor": "Thomas More"
+      },
+      {
+            "genero": "Fábula Política",
+            "alugados": "0",
+            "titulo": "A Revolução dos Bichos",
+            "id": "6",
+            "exemplares": "1",
+            "autor": "George Orwell"
+      },
+      {
+            "genero": "Fantasia",
+            "alugados": "0",
+            "titulo": "As Crônicas de Nárnia",
+            "id": "7",
+            "exemplares": "8",
+            "autor": "C.S. Lewis"
+      },
+      {
+            "genero": "Sátira",
+            "alugados": "0",
+            "titulo": "Cartas Chilenas",
+            "id": "8",
+            "exemplares": "3",
+            "autor": "Tomás Antônio Gonzaga"
+      },
+      {
+            "genero": "Filosofia Política",
+            "alugados": "0",
+            "titulo": "O Príncipe",
+            "id": "9",
+            "exemplares": "1",
+            "autor": "Nicolau Maquiavel"
+      },
+      {
+            "genero": "Ficção Científica",
+            "alugados": "0",
+            "titulo": "O Guia do Mochileiro das Galáxias",
+            "id": "10",
+            "exemplares": "10",
+            "autor": "Douglas Adams"
+      }
+]}
